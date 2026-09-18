@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "courses": [
+    {
+      "id": "news_ai",
+      "title": "时事：AI 改变生活",
+      "language": "en",
+      "level": "B1",
+      "description": "人工智能如何改变我们的日常生活",
+      "file": "courses/news_ai.json"
+    },
+    {
+      "id": "news_health",
+      "title": "时事：健康生活",
+      "language": "en",
+      "level": "B1",
+      "description": "保持健康的小习惯",
+      "file": "courses/news_health.json"
+    },
+    {
+      "id": "news_travel",
+      "title": "时事：旅行与文化",
+      "language": "en",
+      "level": "B1",
+      "description": "旅行中的见闻与文化",
+      "file": "courses/news_travel.json"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "news_health",
+  "title": "时事：健康生活",
+  "language": "en",
+  "level": "B1",
+  "description": "保持健康的小习惯",
+  "sentences": [
+    {
+      "text": "Walking thirty minutes a day is good for your health.",
+      "translation": "每天步行三十分钟对健康有益。",
+      "audio": "audio/news_health_00.mp3"
+    },
+    {
+      "text": "Drinking enough water keeps your body healthy.",
+      "translation": "喝足够的水让身体保持健康。",
+      "audio": "audio/news_health_01.mp3"
+    },
+    {
+      "text": "A good night's sleep improves your memory.",
+      "translation": "良好的睡眠能改善记忆力。",
+      "audio": "audio/news_health_02.mp3"
+    },
+    {
+      "text": "Eating more vegetables helps you stay fit.",
+      "translation": "多吃蔬菜有助于保持身材。",
+      "audio": "audio/news_health_03.mp3"
+    },
+    {
+      "text": "Taking breaks from your screen protects your eyes.",
+      "translation": "让眼睛远离屏幕、适当休息可以保护视力。",
+      "audio": "audio/news_health_04.mp3"
+    }
+  ]
+}

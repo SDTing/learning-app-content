@@ -1,0 +1,34 @@
+{
+  "id": "news_travel",
+  "title": "时事：旅行与文化",
+  "language": "en",
+  "level": "B1",
+  "description": "旅行中的见闻与文化",
+  "sentences": [
+    {
+      "text": "Traveling opens your mind to new cultures.",
+      "translation": "旅行能开阔眼界，了解新文化。",
+      "audio": "audio/news_travel_00.mp3"
+    },
+    {
+      "text": "More tourists are visiting Asia this year.",
+      "translation": "今年有更多游客到访亚洲。",
+      "audio": "audio/news_travel_01.mp3"
+    },
+    {
+      "text": "Learning a few local phrases makes travel easier.",
+      "translation": "学会几句当地用语会让旅行更轻松。",
+      "audio": "audio/news_travel_02.mp3"
+    },
+    {
+      "text": "Every city has its own unique story to tell.",
+      "translation": "每座城市都有自己独特的故事。",
+      "audio": "audio/news_travel_03.mp3"
+    },
+    {
+      "text": "The best souvenirs are the memories you bring home.",
+      "translation": "最好的纪念品是你带回家的回忆。",
+      "audio": "audio/news_travel_04.mp3"
+    }
+  ]
+}
