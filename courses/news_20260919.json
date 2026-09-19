@@ -1,0 +1,34 @@
+{
+  "id": "news_20260919",
+  "title": "时事：09月19日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-09-19 双语时事新闻",
+  "sentences": [
+    {
+      "text": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "translation": "特朗普发出吞并威胁后，美国与丹麦就格陵兰岛达成协议",
+      "audio": "audio/news_20260919_00.mp3"
+    },
+    {
+      "text": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "translation": "马克龙称俄罗斯对欧洲的混合攻击正在加剧",
+      "audio": "audio/news_20260919_01.mp3"
+    },
+    {
+      "text": "Trump says he is banning CNN and Politico from White House",
+      "translation": "特朗普称他将禁止CNN和Politico进入白宫",
+      "audio": "audio/news_20260919_02.mp3"
+    },
+    {
+      "text": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+      "translation": "肯尼迪中心正在损失“数亿美元”吗？",
+      "audio": "audio/news_20260919_03.mp3"
+    },
+    {
+      "text": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "translation": "一辆载有爆炸物的车辆冲撞巴基斯坦清真寺，至少21人死亡",
+      "audio": "audio/news_20260919_04.mp3"
+    }
+  ]
+}
