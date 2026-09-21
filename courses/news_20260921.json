@@ -1,0 +1,34 @@
+{
+  "id": "news_20260921",
+  "title": "时事：09月21日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-09-21 双语时事新闻",
+  "sentences": [
+    {
+      "text": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "translation": "德国总理默茨称州选举对其政党而言是一场“灾难”，但誓言将继续留任",
+      "audio": "audio/news_20260921_00.mp3"
+    },
+    {
+      "text": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "translation": "莫斯科遭遇最大规模袭击，市长称乌克兰发射数百架无人机",
+      "audio": "audio/news_20260921_01.mp3"
+    },
+    {
+      "text": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+      "translation": "艾德·希兰在麦克勒莫尔争议后的首场演出中承认“犯了错误”",
+      "audio": "audio/news_20260921_02.mp3"
+    },
+    {
+      "text": "Trump says triumphal arch will be military complex with drones and snipers",
+      "translation": "特朗普称凯旋门将建成配备无人机和狙击手的军事综合体",
+      "audio": "audio/news_20260921_03.mp3"
+    },
+    {
+      "text": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+      "translation": "希腊一名82岁男子因沙滩躺椅与76岁老人发生争执后死亡",
+      "audio": "audio/news_20260921_04.mp3"
+    }
+  ]
+}
