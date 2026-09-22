@@ -1,0 +1,34 @@
+{
+  "id": "news_20260922",
+  "title": "时事：09月22日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-09-22 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "translation": "也门民众逃离红海两岸，胡塞武装与沙特支持的力量战事升级",
+      "audio": "audio/news_20260922_00.mp3"
+    },
+    {
+      "text": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "translation": "CNN、MS NOW和Politico就特朗普白宫禁令提起诉讼",
+      "audio": "audio/news_20260922_01.mp3"
+    },
+    {
+      "text": "Merz vows to keep coalition together for Germany's 'democratic future'",
+      "translation": "默茨誓言维护联盟团结，守护德国“民主未来”",
+      "audio": "audio/news_20260922_02.mp3"
+    },
+    {
+      "text": "First UK charges brought over 1994 Rwanda genocide",
+      "translation": "英国首次就1994年卢旺达大屠杀提出指控",
+      "audio": "audio/news_20260922_03.mp3"
+    },
+    {
+      "text": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "translation": "强台风“杜鹃”袭击日本，数百万人被敦促撤离",
+      "audio": "audio/news_20260922_04.mp3"
+    }
+  ]
+}
