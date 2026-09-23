@@ -1,0 +1,34 @@
+{
+  "id": "news_20260923",
+  "title": "时事：09月23日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-09-23 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+      "translation": "特朗普在联合国演讲中威胁要“彻底摧毁”伊朗，两国官员在场边会晤",
+      "audio": "audio/news_20260923_00.mp3"
+    },
+    {
+      "text": "Burnham expects to find 'common ground' with Trump in first meeting",
+      "translation": "伯纳姆预计在首次会晤中与特朗普找到“共同点”",
+      "audio": "audio/news_20260923_01.mp3"
+    },
+    {
+      "text": "US to build two military bases in Greenland under new deal with Denmark",
+      "translation": "美国将与丹麦达成新协议，在格陵兰建造两座军事基地",
+      "audio": "audio/news_20260923_02.mp3"
+    },
+    {
+      "text": "How Ceuta, football and Israel are shaping Morocco's election",
+      "translation": "休达、足球和以色列如何影响摩洛哥选举",
+      "audio": "audio/news_20260923_03.mp3"
+    },
+    {
+      "text": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+      "translation": "斯里兰卡法院判定15名男子在复活节周日爆炸案中有罪",
+      "audio": "audio/news_20260923_04.mp3"
+    }
+  ]
+}
