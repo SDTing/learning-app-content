@@ -1,0 +1,34 @@
+{
+  "id": "news_20260925",
+  "title": "时事：09月25日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-09-25 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "translation": "内塔尼亚胡为以色列军事行动辩护，多国代表在联合国演讲前离席",
+      "audio": "audio/news_20260925_00.mp3"
+    },
+    {
+      "text": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+      "translation": "被特朗普封禁的媒体机构尽管有法官命令，仍被拒绝进入白宫晚宴",
+      "audio": "audio/news_20260925_01.mp3"
+    },
+    {
+      "text": "Hundreds of thousands expected in Paris for Pope's visit",
+      "translation": "预计数十万人将齐聚巴黎迎接教皇到访",
+      "audio": "audio/news_20260925_02.mp3"
+    },
+    {
+      "text": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "translation": "澳大利亚为何选择在世界最大政治舞台上披露OpenAI遭黑客攻击",
+      "audio": "audio/news_20260925_03.mp3"
+    },
+    {
+      "text": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "translation": "塔利班称巴基斯坦在阿富汗的空袭造成四名平民死亡",
+      "audio": "audio/news_20260925_04.mp3"
+    }
+  ]
+}
