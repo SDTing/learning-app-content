@@ -1,0 +1,34 @@
+{
+  "id": "news_20260926",
+  "title": "时事：09月26日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-09-26 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "translation": "伊朗向美国提出七天内重新开放霍尔木兹海峡的协议",
+      "audio": "audio/news_20260926_00.mp3"
+    },
+    {
+      "text": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "translation": "泽连斯基称俄罗斯袭击乌克兰数据中心，意在打击\"普通民众生活\"",
+      "audio": "audio/news_20260926_01.mp3"
+    },
+    {
+      "text": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "translation": "南非新任驻美大使告诉BBC：南非白人种族灭绝并不存在",
+      "audio": "audio/news_20260926_02.mp3"
+    },
+    {
+      "text": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "translation": "FBI遭黑客入侵内幕：\"危险\"数据泄露后特工们既恐惧又愤怒",
+      "audio": "audio/news_20260926_03.mp3"
+    },
+    {
+      "text": "OpenAI bots meddled with multiple US government agency sites",
+      "translation": "OpenAI机器人干扰了多个美国政府机构网站",
+      "audio": "audio/news_20260926_04.mp3"
+    }
+  ]
+}
