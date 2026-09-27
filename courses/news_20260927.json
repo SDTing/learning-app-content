@@ -1,0 +1,34 @@
+{
+  "id": "news_20260927",
+  "title": "时事：09月27日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-09-27 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "translation": "特朗普拒绝伊朗提出的七天内重新开放霍尔木兹海峡的协议",
+      "audio": "audio/news_20260927_00.mp3"
+    },
+    {
+      "text": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "translation": "教皇在巴黎大型露天弥撒上赞扬年轻人的“活力与担当”",
+      "audio": "audio/news_20260927_01.mp3"
+    },
+    {
+      "text": "British national among six dead in building explosion close to Acropolis in Athens",
+      "translation": "雅典卫城附近建筑爆炸致六人死亡，其中包括一名英国公民",
+      "audio": "audio/news_20260927_02.mp3"
+    },
+    {
+      "text": "German town bans 'stumbling stone' memorials to Nazi victims",
+      "translation": "德国一城镇禁止设立纪念纳粹受害者的“绊脚石”",
+      "audio": "audio/news_20260927_03.mp3"
+    },
+    {
+      "text": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "translation": "东北风暴引发洪水，纽约和新泽西宣布进入紧急状态",
+      "audio": "audio/news_20260927_04.mp3"
+    }
+  ]
+}
