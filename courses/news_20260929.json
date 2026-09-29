@@ -1,0 +1,34 @@
+{
+  "id": "news_20260929",
+  "title": "时事：09月29日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-09-29 双语时事新闻",
+  "sentences": [
+    {
+      "text": "OpenAI scraps rollout of new model over safety concerns",
+      "translation": "OpenAI因安全担忧取消新模型发布计划",
+      "audio": "audio/news_20260929_00.mp3"
+    },
+    {
+      "text": "Inside Yemen's front-line city as Houthis battle for control",
+      "translation": "也门前线城市内部：胡塞武装争夺控制权",
+      "audio": "audio/news_20260929_01.mp3"
+    },
+    {
+      "text": "New York Times executive fatally shot allegedly by elderly in-laws",
+      "translation": "《纽约时报》高管疑遭年迈岳父母枪杀身亡",
+      "audio": "audio/news_20260929_02.mp3"
+    },
+    {
+      "text": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+      "translation": "首尔就朝鲜战俘争端召见乌克兰特使",
+      "audio": "audio/news_20260929_03.mp3"
+    },
+    {
+      "text": "French PM warns against escalation of school protests after 164 arrested",
+      "translation": "法国总理警告校园抗议勿升级，已有164人被捕",
+      "audio": "audio/news_20260929_04.mp3"
+    }
+  ]
+}
