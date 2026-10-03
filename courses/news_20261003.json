@@ -1,0 +1,34 @@
+{
+  "id": "news_20261003",
+  "title": "时事：10月03日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-03 双语时事新闻",
+  "sentences": [
+    {
+      "text": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "translation": "特朗普威胁出口禁令后，七国集团将释放1亿桶石油和柴油",
+      "audio": "audio/news_20261003_00.mp3"
+    },
+    {
+      "text": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "translation": "律师称，美国杀人犯克里斯塔·派克处决失败后失去意识，靠呼吸机维持生命",
+      "audio": "audio/news_20261003_01.mp3"
+    },
+    {
+      "text": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "translation": "律师表示，康奈尔大学兄弟会强奸案指控者在网上遭到\"围攻\"",
+      "audio": "audio/news_20261003_02.mp3"
+    },
+    {
+      "text": "Riot police clash with students as education protests rage in France",
+      "translation": "法国教育抗议持续发酵，防暴警察与学生对峙",
+      "audio": "audio/news_20261003_03.mp3"
+    },
+    {
+      "text": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+      "translation": "西班牙首相桑切斯在87岁老妇被驱逐后，输掉关键的住房危机投票",
+      "audio": "audio/news_20261003_04.mp3"
+    }
+  ]
+}
