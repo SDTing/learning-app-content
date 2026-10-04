@@ -1,0 +1,34 @@
+{
+  "id": "news_20261004",
+  "title": "时事：10月04日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-04 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "translation": "克里斯塔·派克死刑执行失败后，田纳西州监狱长将辞职",
+      "audio": "audio/news_20261004_00.mp3"
+    },
+    {
+      "text": "Cornell president says university 'must do better' after frat house rape allegations",
+      "translation": "康奈尔大学校长称在兄弟会性侵指控后，学校“必须做得更好”",
+      "audio": "audio/news_20261004_01.mp3"
+    },
+    {
+      "text": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "translation": "阿联酋官员称迪拜航空副驾驶用斧头袭击机长",
+      "audio": "audio/news_20261004_02.mp3"
+    },
+    {
+      "text": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "translation": "俄罗斯袭击乌克兰首都基辅的第二座主要桥梁",
+      "audio": "audio/news_20261004_03.mp3"
+    },
+    {
+      "text": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "translation": "“街头怒火”：西班牙数万人抗议住房危机",
+      "audio": "audio/news_20261004_04.mp3"
+    }
+  ]
+}
