@@ -1,0 +1,34 @@
+{
+  "id": "news_20261005",
+  "title": "时事：10月05日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-05 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "translation": "俄罗斯再次发动无人机袭击，基辅一座桥梁被击中，德国总理突访乌克兰",
+      "audio": "audio/news_20261005_00.mp3"
+    },
+    {
+      "text": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "translation": "视频：关于俄罗斯袭击基辅桥梁，我们目前所知的情况",
+      "audio": "audio/news_20261005_01.mp3"
+    },
+    {
+      "text": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "translation": "也门政府宣布全面开战，誓从胡塞武装手中夺回失地",
+      "audio": "audio/news_20261005_02.mp3"
+    },
+    {
+      "text": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+      "translation": "巴西大选进入第二轮，右翼候选人弗拉维奥·博索纳罗赢得首轮投票",
+      "audio": "audio/news_20261005_03.mp3"
+    },
+    {
+      "text": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "translation": "埃塞俄比亚叛军撤出提格雷州首府",
+      "audio": "audio/news_20261005_04.mp3"
+    }
+  ]
+}
