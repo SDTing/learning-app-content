@@ -1,0 +1,34 @@
+{
+  "id": "news_20261006",
+  "title": "时事：10月06日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-06 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "translation": "特朗普称'威胁'促使美国从英国费尔福德皇家空军基地撤走轰炸机",
+      "audio": "audio/news_20261006_00.mp3"
+    },
+    {
+      "text": "France braces for national day of school protests after injuries and mass arrests",
+      "translation": "法国多地学校抗议致人受伤、大规模逮捕后，全国迎来校园抗议日",
+      "audio": "audio/news_20261006_01.mp3"
+    },
+    {
+      "text": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+      "translation": "沙特阿拉伯被敦促饶过一名因脸书帖子被判死刑的男子",
+      "audio": "audio/news_20261006_02.mp3"
+    },
+    {
+      "text": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+      "translation": "分离主义政党预计赢得魁北克选举，加拿大团结面临新考验",
+      "audio": "audio/news_20261006_03.mp3"
+    },
+    {
+      "text": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
+      "translation": "欧洲正投入数十亿资金发展太空产业，格拉斯哥的卫星行业能否跟上？",
+      "audio": "audio/news_20261006_04.mp3"
+    }
+  ]
+}
