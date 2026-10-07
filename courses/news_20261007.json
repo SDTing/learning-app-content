@@ -1,0 +1,34 @@
+{
+  "id": "news_20261007",
+  "title": "时事：10月07日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-07 双语时事新闻",
+  "sentences": [
+    {
+      "text": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "translation": "律师称美国死囚克里斯塔·派克在处决失败后已苏醒并能说话",
+      "audio": "audio/news_20261007_00.mp3"
+    },
+    {
+      "text": "Tear gas in Paris and Marseille as school protests grow across France",
+      "translation": "法国多地校园抗议蔓延，巴黎和马赛出现催泪瓦斯",
+      "audio": "audio/news_20261007_01.mp3"
+    },
+    {
+      "text": "Former German spy chief arrested for espionage and treason",
+      "translation": "德国前情报局长因间谍和叛国罪被捕",
+      "audio": "audio/news_20261007_02.mp3"
+    },
+    {
+      "text": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+      "translation": "研究表明，一种美丽的喜马拉雅鸟类因人类活动而改变鸣声",
+      "audio": "audio/news_20261007_03.mp3"
+    },
+    {
+      "text": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+      "translation": "康奈尔七人案中一人的律师呼吁撤换此前发表不当言论的特别检察官",
+      "audio": "audio/news_20261007_04.mp3"
+    }
+  ]
+}
