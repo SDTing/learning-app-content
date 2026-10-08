@@ -1,0 +1,34 @@
+{
+  "id": "news_20261008",
+  "title": "时事：10月08日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-08 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+      "translation": "工会称，因遭驱逐而引发全国抗议的西班牙养老金领取者去世",
+      "audio": "audio/news_20261008_00.mp3"
+    },
+    {
+      "text": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+      "translation": "哈马斯致命袭击三年后，以色列人悼念10月7日袭击遇难者",
+      "audio": "audio/news_20261008_01.mp3"
+    },
+    {
+      "text": "Israelis demand accountability over 7 October failures three years after attacks",
+      "translation": "袭击发生三年后，以色列人要求追究10月7日失误的责任",
+      "audio": "audio/news_20261008_02.mp3"
+    },
+    {
+      "text": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "translation": "一名男孩在学生抗议中被震爆弹炸掉手后，法国暂停使用震爆弹",
+      "audio": "audio/news_20261008_03.mp3"
+    },
+    {
+      "text": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "translation": "加拿大暂停将辅助死亡扩大到精神疾病患者的计划",
+      "audio": "audio/news_20261008_04.mp3"
+    }
+  ]
+}
