@@ -1,0 +1,34 @@
+{
+  "id": "news_20261009",
+  "title": "时事：10月09日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-09 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
+      "translation": "与摩纳哥针对百万富翁的炸弹袭击有关的嫌疑人在乌克兰监狱接受BBC采访",
+      "audio": "audio/news_20261009_00.mp3"
+    },
+    {
+      "text": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "translation": "五角大楼称，胡德堡袭击者的枪决将被直播",
+      "audio": "audio/news_20261009_01.mp3"
+    },
+    {
+      "text": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "translation": "官员称俄罗斯对巴士的袭击造成至少30人死亡，乌克兰境内致命袭击激增",
+      "audio": "audio/news_20261009_02.mp3"
+    },
+    {
+      "text": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+      "translation": "律师告诉BBC，克里斯塔·派克在美国一次未成功的处决后现已能行走",
+      "audio": "audio/news_20261009_03.mp3"
+    },
+    {
+      "text": "Adidas sues Australian label White Fox over four stripes design",
+      "translation": "阿迪达斯因四条纹设计起诉澳大利亚品牌White Fox",
+      "audio": "audio/news_20261009_04.mp3"
+    }
+  ]
+}
