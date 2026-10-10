@@ -1,0 +1,34 @@
+{
+  "id": "news_20261010",
+  "title": "时事：10月10日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-10 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "translation": "特朗普宣布与俄罗斯达成柴油协议，泽连斯基称这是给普京的礼物",
+      "audio": "audio/news_20261010_00.mp3"
+    },
+    {
+      "text": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "translation": "分析：特朗普出人意料的俄罗斯协议凸显遏制燃油价格的压力日益增大",
+      "audio": "audio/news_20261010_01.mp3"
+    },
+    {
+      "text": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "translation": "美国宣布对国际刑事法院实施制裁，法院谴责此举为“对法治的攻击”",
+      "audio": "audio/news_20261010_02.mp3"
+    },
+    {
+      "text": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+      "translation": "数千名安全人员部署到位，德里严阵以待“蟑螂”抗议活动",
+      "audio": "audio/news_20261010_03.mp3"
+    },
+    {
+      "text": "Life-threatening Hurricane Isaias makes landfall in Florida",
+      "translation": "危及生命的飓风“伊萨亚斯”在佛罗里达登陆",
+      "audio": "audio/news_20261010_04.mp3"
+    }
+  ]
+}
