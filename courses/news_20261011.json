@@ -1,0 +1,34 @@
+{
+  "id": "news_20261011",
+  "title": "时事：10月11日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-11 双语时事新闻",
+  "sentences": [
+    {
+      "text": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "translation": "特朗普称“乌克兰该换新总统了”，此前泽连斯基谴责柴油协议",
+      "audio": "audio/news_20261011_00.mp3"
+    },
+    {
+      "text": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "translation": "沙特首都利雅得机场遭袭，十二人死亡",
+      "audio": "audio/news_20261011_01.mp3"
+    },
+    {
+      "text": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "translation": "年轻男子生活在恐惧中，担心被当街掳走卖入缅甸军队",
+      "audio": "audio/news_20261011_02.mp3"
+    },
+    {
+      "text": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "translation": "俄罗斯滑翔炸弹袭击扎波罗热，至少20人死亡",
+      "audio": "audio/news_20261011_03.mp3"
+    },
+    {
+      "text": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "translation": "美国杀人犯克里斯塔·派克在处决失败10天后出院",
+      "audio": "audio/news_20261011_04.mp3"
+    }
+  ]
+}
