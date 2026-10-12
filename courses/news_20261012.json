@@ -1,0 +1,34 @@
+{
+  "id": "news_20261012",
+  "title": "时事：10月12日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-12 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "translation": "泽连斯基对特朗普的“能源停火”说法表示欢迎，俄方保持沉默",
+      "audio": "audio/news_20261012_00.mp3"
+    },
+    {
+      "text": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "translation": "胡塞武装两天内再次袭击利雅得机场，致1死11伤",
+      "audio": "audio/news_20261012_01.mp3"
+    },
+    {
+      "text": "Poland detains man suspected of planning assassination of PM Tusk",
+      "translation": "波兰拘留一名涉嫌策划暗杀总理图斯克的男子",
+      "audio": "audio/news_20261012_02.mp3"
+    },
+    {
+      "text": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "translation": "人权组织称埃及-苏丹边境遭空袭，数十名淘金者丧生",
+      "audio": "audio/news_20261012_03.mp3"
+    },
+    {
+      "text": "Homes and bridges swept away as fresh floods hit Nepal",
+      "translation": "尼泊尔再遭洪水侵袭，房屋和桥梁被冲毁",
+      "audio": "audio/news_20261012_04.mp3"
+    }
+  ]
+}
