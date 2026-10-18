@@ -1,0 +1,34 @@
+{
+  "id": "news_20261018",
+  "title": "时事：10月18日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-18 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "translation": "法国抗议活动后逾千人被捕，暴力冲突、抢劫与建筑纵火频发",
+      "audio": "audio/news_20261018_00.mp3"
+    },
+    {
+      "text": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "translation": "特朗普豁免多项对俄制裁，与泽连斯基争执加剧",
+      "audio": "audio/news_20261018_01.mp3"
+    },
+    {
+      "text": "European diplomats attacked by Israeli settlers in West Bank",
+      "translation": "欧洲外交官在约旦河西岸遭以色列定居者袭击",
+      "audio": "audio/news_20261018_02.mp3"
+    },
+    {
+      "text": "Anti-government protesters battle with police in Albania",
+      "translation": "阿尔巴尼亚反政府抗议者与警方发生冲突",
+      "audio": "audio/news_20261018_03.mp3"
+    },
+    {
+      "text": "At least 17 dead in crush at Hindu festival event in India",
+      "translation": "印度印度教节日活动发生踩踏事故，至少17人死亡",
+      "audio": "audio/news_20261018_04.mp3"
+    }
+  ]
+}
