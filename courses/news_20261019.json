@@ -1,0 +1,34 @@
+{
+  "id": "news_20261019",
+  "title": "时事：10月19日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-19 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Macron calls for 'calm and order' after riots across France",
+      "translation": "法国多地爆发骚乱后，马克龙呼吁“保持冷静与秩序”",
+      "audio": "audio/news_20261019_00.mp3"
+    },
+    {
+      "text": "'Very upsetting': Residents in shock after historic French town hall set alight",
+      "translation": "“令人非常不安”：法国历史悠久的市政厅遭纵火后，居民震惊不已",
+      "audio": "audio/news_20261019_01.mp3"
+    },
+    {
+      "text": "Major fire at Canada military base leaves four dead, dozens injured",
+      "translation": "加拿大一军事基地发生大火，造成四人死亡、数十人受伤",
+      "audio": "audio/news_20261019_02.mp3"
+    },
+    {
+      "text": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "translation": "特朗普称暂停对俄制裁是为了让和平谈判继续推进",
+      "audio": "audio/news_20261019_03.mp3"
+    },
+    {
+      "text": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "translation": "深入俄罗斯内部反普京破坏活动的隐秘世界",
+      "audio": "audio/news_20261019_04.mp3"
+    }
+  ]
+}
