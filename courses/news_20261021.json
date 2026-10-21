@@ -1,0 +1,34 @@
+{
+  "id": "news_20261021",
+  "title": "时事：10月21日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-21 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "translation": "泽连斯基称在奥斯陆与特朗普特使会谈后，美国情报共享\"现在行得通\"",
+      "audio": "audio/news_20261021_00.mp3"
+    },
+    {
+      "text": "France is divided over who to blame for and what to learn from weekend riots",
+      "translation": "法国就周末骚乱该归咎于谁、应吸取什么教训意见分歧",
+      "audio": "audio/news_20261021_01.mp3"
+    },
+    {
+      "text": "Elon Musk says Tesla-SpaceX merger being considered",
+      "translation": "埃隆·马斯克称正考虑特斯拉与SpaceX合并",
+      "audio": "audio/news_20261021_02.mp3"
+    },
+    {
+      "text": "Man charged with attack on Australia MP to face court",
+      "translation": "被控袭击澳大利亚议员的男子将出庭受审",
+      "audio": "audio/news_20261021_03.mp3"
+    },
+    {
+      "text": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "translation": "尽管奥斯陆方面态度乐观，特朗普与泽连斯基似乎仍僵持不下",
+      "audio": "audio/news_20261021_04.mp3"
+    }
+  ]
+}
