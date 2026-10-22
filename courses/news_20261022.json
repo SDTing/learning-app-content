@@ -1,0 +1,34 @@
+{
+  "id": "news_20261022",
+  "title": "时事：10月22日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-22 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "translation": "俄罗斯同意美方呼吁恢复乌克兰和谈后，导弹袭击基辅",
+      "audio": "audio/news_20261022_00.mp3"
+    },
+    {
+      "text": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "translation": "罗森伯格：美国的外交推动难以带来乌克兰和平的近期希望",
+      "audio": "audio/news_20261022_01.mp3"
+    },
+    {
+      "text": "Macron accuses foreign leaders of exploiting French riots",
+      "translation": "马克龙指责外国领导人利用法国骚乱",
+      "audio": "audio/news_20261022_02.mp3"
+    },
+    {
+      "text": "Pope does not need further treatment after lung cancer surgery",
+      "translation": "教皇肺癌手术后无需进一步治疗",
+      "audio": "audio/news_20261022_03.mp3"
+    },
+    {
+      "text": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+      "translation": "深受爱戴的议员遭\"针对性\"袭击，澳大利亚小镇心碎",
+      "audio": "audio/news_20261022_04.mp3"
+    }
+  ]
+}
