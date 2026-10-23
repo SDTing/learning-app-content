@@ -1,0 +1,34 @@
+{
+  "id": "news_20261023",
+  "title": "时事：10月23日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-23 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "translation": "BBC调查发现苏丹快速支援部队武装分子蓄意袭击医院",
+      "audio": "audio/news_20261023_00.mp3"
+    },
+    {
+      "text": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "translation": "特朗普称马斯克已恢复乌克兰星链网络的使用权限",
+      "audio": "audio/news_20261023_01.mp3"
+    },
+    {
+      "text": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "translation": "冲突加剧也门饥荒危机，新生双胞胎挣扎求生",
+      "audio": "audio/news_20261023_02.mp3"
+    },
+    {
+      "text": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+      "translation": "欧莱雅称减肥药物正在影响美容和护肤产品的销售",
+      "audio": "audio/news_20261023_03.mp3"
+    },
+    {
+      "text": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "translation": "特朗普被勒令在BBC诉讼案中宣誓回答问题",
+      "audio": "audio/news_20261023_04.mp3"
+    }
+  ]
+}
