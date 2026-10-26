@@ -1,0 +1,34 @@
+{
+  "id": "news_20261026",
+  "title": "时事：10月26日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-26 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "translation": "资深统治者武契奇向学生领导的抗议运动让步，塞尔维亚各地一片欢腾",
+      "audio": "audio/news_20261026_00.mp3"
+    },
+    {
+      "text": "Deeply divided Israel braces for pivotal election",
+      "translation": "分歧严重的以色列迎来关键选举",
+      "audio": "audio/news_20261026_01.mp3"
+    },
+    {
+      "text": "Venezuelan opposition leader María Machado returns after months in exile",
+      "translation": "委内瑞拉反对派领袖玛丽亚·马查多流亡数月后归国",
+      "audio": "audio/news_20261026_02.mp3"
+    },
+    {
+      "text": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "translation": "马斯克称SpaceX曾限制乌克兰星链连接，服务现已恢复",
+      "audio": "audio/news_20261026_03.mp3"
+    },
+    {
+      "text": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "translation": "巴黎郊区致命枪击案嫌疑人被送精神科观察",
+      "audio": "audio/news_20261026_04.mp3"
+    }
+  ]
+}
