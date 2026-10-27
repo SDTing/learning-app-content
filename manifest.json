@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "courses": [
     {
       "id": "news_ai",
@@ -24,6 +24,14 @@
       "level": "B1",
       "description": "旅行中的见闻与文化",
       "file": "courses/news_travel.json"
+    },
+    {
+      "id": "news_20261027",
+      "title": "时事：10月27日",
+      "language": "en",
+      "level": "B1",
+      "description": "2026-10-27 双语时事新闻",
+      "file": "courses/news_20261027.json"
     },
     {
       "id": "news_20261026",
@@ -80,14 +88,6 @@
       "level": "B1",
       "description": "2026-10-20 双语时事新闻",
       "file": "courses/news_20261020.json"
-    },
-    {
-      "id": "news_20261019",
-      "title": "时事：10月19日",
-      "language": "en",
-      "level": "B1",
-      "description": "2026-10-19 双语时事新闻",
-      "file": "courses/news_20261019.json"
     }
   ]
 }

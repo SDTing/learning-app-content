@@ -1,0 +1,34 @@
+{
+  "id": "news_20261027",
+  "title": "时事：10月27日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-27 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Lula wins fourth term in dramatic Brazil election comeback",
+      "translation": "卢拉在巴西大选中戏剧性逆转获胜，赢得第四个任期",
+      "audio": "audio/news_20261027_00.mp3"
+    },
+    {
+      "text": "Ex-FBI chief James Comey faces federal charges for third time",
+      "translation": "前FBI局长詹姆斯·科米第三次面临联邦指控",
+      "audio": "audio/news_20261027_01.mp3"
+    },
+    {
+      "text": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "translation": "反对派领袖玛丽亚·马查多结束流亡返回委内瑞拉，该国已被特朗普重塑",
+      "audio": "audio/news_20261027_02.mp3"
+    },
+    {
+      "text": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "translation": "塞尔维亚资深统治者武契奇败给学生领导的抗议运动，民众庆祝",
+      "audio": "audio/news_20261027_03.mp3"
+    },
+    {
+      "text": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "translation": "法官裁定特朗普政府非法解雇詹姆斯·科米的女儿",
+      "audio": "audio/news_20261027_04.mp3"
+    }
+  ]
+}
