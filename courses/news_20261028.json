@@ -1,0 +1,34 @@
+{
+  "id": "news_20261028",
+  "title": "时事：10月28日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-28 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Norway and Finland leaders hold rare call with Putin",
+      "translation": "挪威与芬兰领导人罕见与普京通话",
+      "audio": "audio/news_20261028_00.mp3"
+    },
+    {
+      "text": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "translation": "官员称乌克兰赫尔松地区停火协议延长",
+      "audio": "audio/news_20261028_01.mp3"
+    },
+    {
+      "text": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "translation": "姆巴佩就“不当”毛泽东言论在中国引发反弹后道歉",
+      "audio": "audio/news_20261028_02.mp3"
+    },
+    {
+      "text": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+      "translation": "卢拉在巴西的回归挫伤特朗普对拉美的野心",
+      "audio": "audio/news_20261028_03.mp3"
+    },
+    {
+      "text": "Dutch zookeeper dies after being mauled by leopard",
+      "translation": "荷兰动物园管理员遭豹袭击身亡",
+      "audio": "audio/news_20261028_04.mp3"
+    }
+  ]
+}
