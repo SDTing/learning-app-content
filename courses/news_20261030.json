@@ -1,0 +1,34 @@
+{
+  "id": "news_20261030",
+  "title": "时事：10月30日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-30 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "translation": "以色列反对派指责内塔尼亚胡试图‘否定选举合法性’",
+      "audio": "audio/news_20261030_00.mp3"
+    },
+    {
+      "text": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+      "translation": "录音揭示西班牙列车调度员与司机在致命相撞前片刻的对话",
+      "audio": "audio/news_20261030_01.mp3"
+    },
+    {
+      "text": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "translation": "‘城市还活着’：赫尔松短暂的平静，但居民担忧接下来会发生什么",
+      "audio": "audio/news_20261030_02.mp3"
+    },
+    {
+      "text": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "translation": "官员称俄罗斯无人机袭击乌克兰火车站，至少造成14人死亡",
+      "audio": "audio/news_20261030_03.mp3"
+    },
+    {
+      "text": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "translation": "弗拉维奥·博索纳罗在选举失利后自称‘巴西的领袖’",
+      "audio": "audio/news_20261030_04.mp3"
+    }
+  ]
+}
