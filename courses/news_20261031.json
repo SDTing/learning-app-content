@@ -1,0 +1,34 @@
+{
+  "id": "news_20261031",
+  "title": "时事：10月31日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-10-31 双语时事新闻",
+  "sentences": [
+    {
+      "text": "US approves sale of 500 Patriot missiles to Ukraine",
+      "translation": "美国批准向乌克兰出售500枚爱国者导弹",
+      "audio": "audio/news_20261031_00.mp3"
+    },
+    {
+      "text": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "translation": "加密货币巨头币安试图追回与朝鲜有关的黑客攻击中被盗的63亿美元",
+      "audio": "audio/news_20261031_01.mp3"
+    },
+    {
+      "text": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "translation": "为什么朝鲜的“精英”黑客是币安重大黑客攻击的主要嫌疑人",
+      "audio": "audio/news_20261031_02.mp3"
+    },
+    {
+      "text": "Police deployed during stand-off over control of top Poland court",
+      "translation": "波兰最高法院控制权对峙期间警方出动",
+      "audio": "audio/news_20261031_03.mp3"
+    },
+    {
+      "text": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "translation": "乌克兰罕见停火期间，数百人从俄占奥列什基撤离",
+      "audio": "audio/news_20261031_04.mp3"
+    }
+  ]
+}
