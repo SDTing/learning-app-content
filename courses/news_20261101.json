@@ -1,0 +1,34 @@
+{
+  "id": "news_20261101",
+  "title": "时事：11月01日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-01 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Shops looted as German cost of living protests turn violent",
+      "translation": "德国生活成本抗议演变为暴力事件，商店遭洗劫",
+      "audio": "audio/news_20261101_00.mp3"
+    },
+    {
+      "text": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "translation": "乌克兰人讲述在俄占前线城市多年后“从地狱归来”",
+      "audio": "audio/news_20261101_01.mp3"
+    },
+    {
+      "text": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "translation": "被困俄占城市多年后，乌克兰撤离人员与家人团聚",
+      "audio": "audio/news_20261101_02.mp3"
+    },
+    {
+      "text": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "translation": "加密货币公司币安在63亿美元黑客攻击后承担90%的损失",
+      "audio": "audio/news_20261101_03.mp3"
+    },
+    {
+      "text": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "translation": "印度反对派将举行大型集会，要求选举专员辞职",
+      "audio": "audio/news_20261101_04.mp3"
+    }
+  ]
+}
