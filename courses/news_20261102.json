@@ -1,0 +1,34 @@
+{
+  "id": "news_20261102",
+  "title": "时事：11月02日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-02 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "translation": "乌克兰空军表示，空袭警报应用程序显然遭到黑客攻击，用户收到虚假的辐射威胁信息",
+      "audio": "audio/news_20261102_00.mp3"
+    },
+    {
+      "text": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "translation": "俄罗斯发动袭击导致乌克兰数千人断电，赫尔松停火协议告终",
+      "audio": "audio/news_20261102_01.mp3"
+    },
+    {
+      "text": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "translation": "密歇根州关键参议院选战中民主党人背书共和党候选人，党内纷争爆发",
+      "audio": "audio/news_20261102_02.mp3"
+    },
+    {
+      "text": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "translation": "医院方面称，以色列对加沙的袭击造成八人死亡，其中包括一名儿童",
+      "audio": "audio/news_20261102_03.mp3"
+    },
+    {
+      "text": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "translation": "法国在有人向警察投掷汽油弹后展开谋杀未遂调查",
+      "audio": "audio/news_20261102_04.mp3"
+    }
+  ]
+}
