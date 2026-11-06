@@ -1,0 +1,34 @@
+{
+  "id": "news_20261106",
+  "title": "时事：11月06日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-06 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "translation": "美国中期选举加剧人工智能放缓担忧，全球科技股暴跌",
+      "audio": "audio/news_20261106_00.mp3"
+    },
+    {
+      "text": "Trump signs order preventing future presidents from changing Oval Office",
+      "translation": "特朗普签署命令，禁止未来总统更改椭圆形办公室",
+      "audio": "audio/news_20261106_01.mp3"
+    },
+    {
+      "text": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "translation": "共和党选举失利后，白宫否认赫格塞斯和卢比奥将离职",
+      "audio": "audio/news_20261106_02.mp3"
+    },
+    {
+      "text": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "translation": "教皇肺癌手术后数周，开始对拉丁美洲的漫长访问",
+      "audio": "audio/news_20261106_03.mp3"
+    },
+    {
+      "text": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "translation": "欧洲航空公司和机场一周内第二次遭遇虚假炸弹威胁",
+      "audio": "audio/news_20261106_04.mp3"
+    }
+  ]
+}
