@@ -1,0 +1,34 @@
+{
+  "id": "news_20261107",
+  "title": "时事：11月07日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-07 双语时事新闻",
+  "sentences": [
+    {
+      "text": "AI stocks climb after trillions wiped from market values",
+      "translation": "市值蒸发数万亿美元后，AI股反弹攀升",
+      "audio": "audio/news_20261107_00.mp3"
+    },
+    {
+      "text": "Four midterms takeaways for 2028 White House race",
+      "translation": "中期选举四大启示，关乎2028年白宫之争",
+      "audio": "audio/news_20261107_01.mp3"
+    },
+    {
+      "text": "Two dead after bus crashes in France, officials say",
+      "translation": "法国发生巴士撞车事故，官员称两人死亡",
+      "audio": "audio/news_20261107_02.mp3"
+    },
+    {
+      "text": "New wave of bomb threats hit European airlines",
+      "translation": "新一轮炸弹威胁波及欧洲多家航空公司",
+      "audio": "audio/news_20261107_03.mp3"
+    },
+    {
+      "text": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "translation": "肯尼亚末日教派头目因谋杀191人被判终身监禁",
+      "audio": "audio/news_20261107_04.mp3"
+    }
+  ]
+}
