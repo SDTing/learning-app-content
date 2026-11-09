@@ -1,0 +1,34 @@
+{
+  "id": "news_20261109",
+  "title": "时事：11月09日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-09 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "translation": "同事称，在克拉科夫枪击案附近吃午餐的外科医生无疑救了警官一命",
+      "audio": "audio/news_20261109_00.mp3"
+    },
+    {
+      "text": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "translation": "埃及火车相撞致七人死亡、百余人受伤",
+      "audio": "audio/news_20261109_01.mp3"
+    },
+    {
+      "text": "Homes and temples glow across India to mark Diwali",
+      "translation": "印度各地房屋与庙宇灯火通明庆祝排灯节",
+      "audio": "audio/news_20261109_02.mp3"
+    },
+    {
+      "text": "Iran executes three men for 'armed unrest' after January protests",
+      "translation": "伊朗以“武装骚乱”为由处决三名男子，事涉一月抗议",
+      "audio": "audio/news_20261109_03.mp3"
+    },
+    {
+      "text": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "translation": "胡塞武装发动新一轮袭击，阿美大厦在沙特首都中心遭击中",
+      "audio": "audio/news_20261109_04.mp3"
+    }
+  ]
+}
