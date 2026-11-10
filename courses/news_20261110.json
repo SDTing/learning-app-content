@@ -1,0 +1,34 @@
+{
+  "id": "news_20261110",
+  "title": "时事：11月10日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-10 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "translation": "特朗普称FBI正在调查英伟达老板与一名疑似中国间谍的婚外情",
+      "audio": "audio/news_20261110_00.mp3"
+    },
+    {
+      "text": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "translation": "英伟达股价因黄仁勋与疑似中国间谍婚外情调查而大跌",
+      "audio": "audio/news_20261110_01.mp3"
+    },
+    {
+      "text": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "translation": "美国官员称乌克兰和平谈判重启，交战双方展现出“一定灵活性”",
+      "audio": "audio/news_20261110_02.mp3"
+    },
+    {
+      "text": "Trump says more US attacks on Iran 'highly unlikely'",
+      "translation": "特朗普称美国对伊朗发动更多袭击“极不可能”",
+      "audio": "audio/news_20261110_03.mp3"
+    },
+    {
+      "text": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "translation": "仍经营模特公司的爱泼斯坦关联人士“将我置于危险之中”，虐待幸存者称",
+      "audio": "audio/news_20261110_04.mp3"
+    }
+  ]
+}
