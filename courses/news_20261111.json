@@ -1,0 +1,34 @@
+{
+  "id": "news_20261111",
+  "title": "时事：11月11日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-11 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "translation": "美国称三名伊朗支持的嫌疑人策划了包括英国费尔福德皇家空军基地事件在内的多起袭击",
+      "audio": "audio/news_20261111_00.mp3"
+    },
+    {
+      "text": "US Army soldier suspected of spying for Russia arrested in UK",
+      "translation": "一名涉嫌为俄罗斯从事间谍活动的美国陆军士兵在英国被捕",
+      "audio": "audio/news_20261111_01.mp3"
+    },
+    {
+      "text": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "translation": "美国众议院暂时阻止了弹劾国防部长皮特·赫格塞斯的动议",
+      "audio": "audio/news_20261111_02.mp3"
+    },
+    {
+      "text": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "translation": "梅根的父亲托马斯·马克尔因涉嫌拆除脚踝监控器被重新联邦拘留",
+      "audio": "audio/news_20261111_03.mp3"
+    },
+    {
+      "text": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "translation": "“它会要我们的命”：肯尼亚人担忧厄尔尼诺现象引发洪灾的影响",
+      "audio": "audio/news_20261111_04.mp3"
+    }
+  ]
+}
