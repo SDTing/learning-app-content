@@ -1,0 +1,34 @@
+{
+  "id": "news_20261112",
+  "title": "时事：11月12日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-12 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "translation": "民主党人斯科特·科洛姆在密西西比州参议院选举中取得历史性胜利",
+      "audio": "audio/news_20261112_00.mp3"
+    },
+    {
+      "text": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+      "translation": "加沙民防机构称以色列袭击纳赛尔医院造成至少六人死亡",
+      "audio": "audio/news_20261112_01.mp3"
+    },
+    {
+      "text": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "translation": "数千人参加西班牙大罢工后巴塞罗那爆发冲突",
+      "audio": "audio/news_20261112_02.mp3"
+    },
+    {
+      "text": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+      "translation": "俄乌谈判转向战后安全问题但未取得突破",
+      "audio": "audio/news_20261112_03.mp3"
+    },
+    {
+      "text": "Survivor pulled from rubble of deadly building collapse in New York",
+      "translation": "纽约致命建筑倒塌事故中一名幸存者从废墟中被救出",
+      "audio": "audio/news_20261112_04.mp3"
+    }
+  ]
+}
