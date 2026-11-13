@@ -1,0 +1,34 @@
+{
+  "id": "news_20261113",
+  "title": "时事：11月13日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-13 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "translation": "丑闻缠身的英伟达CEO黄仁勋辞职，令这家AI芯片巨头陷入动荡",
+      "audio": "audio/news_20261113_00.mp3"
+    },
+    {
+      "text": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "translation": "泽连斯基欢迎美国让欧洲参与俄乌和谈",
+      "audio": "audio/news_20261113_01.mp3"
+    },
+    {
+      "text": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "translation": "FBI称朝鲜黑客利用虚假视频通话实施4亿美元加密货币盗窃",
+      "audio": "audio/news_20261113_02.mp3"
+    },
+    {
+      "text": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "translation": "俄罗斯军舰在芬兰湾遭乌克兰无人机袭击",
+      "audio": "audio/news_20261113_03.mp3"
+    },
+    {
+      "text": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "translation": "疑似炸弹恶作剧威胁迫使意大利多所学校再次疏散",
+      "audio": "audio/news_20261113_04.mp3"
+    }
+  ]
+}
