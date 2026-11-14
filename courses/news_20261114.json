@@ -1,0 +1,34 @@
+{
+  "id": "news_20261114",
+  "title": "时事：11月14日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-14 双语时事新闻",
+  "sentences": [
+    {
+      "text": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "translation": "“密西西比河上的奇迹”——新奥尔良游轮相撞后所有乘客获救",
+      "audio": "audio/news_20261114_00.mp3"
+    },
+    {
+      "text": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+      "translation": "微软就全球宕机“深表歉意”，并称已大范围恢复",
+      "audio": "audio/news_20261114_01.mp3"
+    },
+    {
+      "text": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "translation": "微软宕机为何持续如此之久？邮件会丢失吗？",
+      "audio": "audio/news_20261114_02.mp3"
+    },
+    {
+      "text": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "translation": "视频：一次服务器故障如何导致微软Teams和Outlook瘫痪",
+      "audio": "audio/news_20261114_03.mp3"
+    },
+    {
+      "text": "Setback for SpaceX Starship rocket's double-catch test",
+      "translation": "SpaceX星舰火箭双捕获测试受挫",
+      "audio": "audio/news_20261114_04.mp3"
+    }
+  ]
+}
