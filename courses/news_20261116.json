@@ -1,0 +1,34 @@
+{
+  "id": "news_20261116",
+  "title": "时事：11月16日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-16 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "translation": "泽连斯基敦促美国和马斯克解除星链限制，站在'历史正确的一边'",
+      "audio": "audio/news_20261116_00.mp3"
+    },
+    {
+      "text": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "translation": "也门部队撤退，胡塞武装控制红海关键水道",
+      "audio": "audio/news_20261116_01.mp3"
+    },
+    {
+      "text": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "translation": "Megaspeed称与英伟达前老板有关联的疑似中国间谍已于2025年离职",
+      "audio": "audio/news_20261116_02.mp3"
+    },
+    {
+      "text": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "translation": "澳大利亚议员在疑似驾车袭击后出院，表示'满怀感激'",
+      "audio": "audio/news_20261116_03.mp3"
+    },
+    {
+      "text": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "translation": "墨西哥毒枭米格尔·安赫尔·费利克斯·加利亚多去世，享年80岁",
+      "audio": "audio/news_20261116_04.mp3"
+    }
+  ]
+}
