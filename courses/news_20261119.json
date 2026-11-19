@@ -1,0 +1,34 @@
+{
+  "id": "news_20261119",
+  "title": "时事：11月19日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-19 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "translation": "乌克兰与俄罗斯在地下老天然气管道中展开暗战",
+      "audio": "audio/news_20261119_00.mp3"
+    },
+    {
+      "text": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "translation": "“无人机飞不到这里”——BBC从乌克兰新前线发回报道",
+      "audio": "audio/news_20261119_01.mp3"
+    },
+    {
+      "text": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "translation": "缅甸因罗兴亚人大屠杀在联合国法院面临历史性种族灭绝裁决",
+      "audio": "audio/news_20261119_02.mp3"
+    },
+    {
+      "text": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "translation": "AI巨头Anthropic上市前估值高达1.5万亿美元",
+      "audio": "audio/news_20261119_03.mp3"
+    },
+    {
+      "text": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "translation": "梵高画作因纳粹历史争议后以创纪录的1.904亿美元售出",
+      "audio": "audio/news_20261119_04.mp3"
+    }
+  ]
+}
