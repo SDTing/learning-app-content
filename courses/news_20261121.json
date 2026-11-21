@@ -1,0 +1,34 @@
+{
+  "id": "news_20261121",
+  "title": "时事：11月21日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-21 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "translation": "科技股遭抛售拖累市场下跌，Anthropic股价下滑",
+      "audio": "audio/news_20261121_00.mp3"
+    },
+    {
+      "text": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "translation": "伯纳姆表示，英国在达成协议后将寻求与欧盟建立更紧密的关系",
+      "audio": "audio/news_20261121_01.mp3"
+    },
+    {
+      "text": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "translation": "图斯克称，俄罗斯导弹击中波兰，乌克兰盟友正在举行军事演习",
+      "audio": "audio/news_20261121_02.mp3"
+    },
+    {
+      "text": "French police officers sentenced for beating of music producer Michel Zecler",
+      "translation": "法国警察因殴打音乐制作人米歇尔·泽克勒被判刑",
+      "audio": "audio/news_20261121_03.mp3"
+    },
+    {
+      "text": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "translation": "在人工智能解决数学问题的一年里，Anthropic可能刚刚解决了最大的那个",
+      "audio": "audio/news_20261121_04.mp3"
+    }
+  ]
+}
