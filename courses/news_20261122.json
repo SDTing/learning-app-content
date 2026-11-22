@@ -1,0 +1,34 @@
+{
+  "id": "news_20261122",
+  "title": "时事：11月22日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-22 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "translation": "泽连斯基称克里米亚大桥遇袭是“公正回应”，并与英国大臣斯特里廷会面",
+      "audio": "audio/news_20261122_00.mp3"
+    },
+    {
+      "text": "Russia-bound ship attacked in Gulf of Finland",
+      "translation": "一艘驶往俄罗斯的船只在芬兰湾遭袭",
+      "audio": "audio/news_20261122_01.mp3"
+    },
+    {
+      "text": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "translation": "化石燃料之争使COP31气候谈判陷入僵局",
+      "audio": "audio/news_20261122_02.mp3"
+    },
+    {
+      "text": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "translation": "墨西哥大毒枭在交火中被捕，曾列入FBI十大通缉犯名单",
+      "audio": "audio/news_20261122_03.mp3"
+    },
+    {
+      "text": "FBI reportedly investigating apparent hack of its criminal database",
+      "translation": "据报道FBI正调查其犯罪数据库疑似遭黑客入侵事件",
+      "audio": "audio/news_20261122_04.mp3"
+    }
+  ]
+}
