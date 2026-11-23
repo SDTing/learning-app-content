@@ -1,0 +1,34 @@
+{
+  "id": "news_20261123",
+  "title": "时事：11月23日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-23 双语时事新闻",
+  "sentences": [
+    {
+      "text": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "translation": "COP31未能达成重大气候协议，谈判暴露出深刻分歧",
+      "audio": "audio/news_20261123_00.mp3"
+    },
+    {
+      "text": "What's next after no deal at COP31 climate talks?",
+      "translation": "COP31气候谈判无果而终，接下来会怎样？",
+      "audio": "audio/news_20261123_01.mp3"
+    },
+    {
+      "text": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "translation": "救援人员称，俄罗斯袭击乌克兰数小时后，一名7岁男孩从废墟中被活着救出",
+      "audio": "audio/news_20261123_02.mp3"
+    },
+    {
+      "text": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "translation": "旧金山正享受人工智能热潮，但对泡沫破裂的担忧日益加剧",
+      "audio": "audio/news_20261123_03.mp3"
+    },
+    {
+      "text": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "translation": "伯纳姆将告诉议员，这项“里程碑式”的欧盟协议可能让下一个十年“好得多”",
+      "audio": "audio/news_20261123_04.mp3"
+    }
+  ]
+}
