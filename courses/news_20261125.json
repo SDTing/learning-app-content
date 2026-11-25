@@ -1,0 +1,34 @@
+{
+  "id": "news_20261125",
+  "title": "时事：11月25日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-25 双语时事新闻",
+  "sentences": [
+    {
+      "text": "US attorney general dodges questions about Nvidia investigation",
+      "translation": "美国司法部长回避有关英伟达调查的提问",
+      "audio": "audio/news_20261125_00.mp3"
+    },
+    {
+      "text": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "translation": "俄罗斯自身数据表明乌克兰战争已致近50万人死亡",
+      "audio": "audio/news_20261125_01.mp3"
+    },
+    {
+      "text": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "translation": "基尔马·阿夫雷戈·加西亚离开美国前往西班牙，特朗普驱逐之争告终",
+      "audio": "audio/news_20261125_02.mp3"
+    },
+    {
+      "text": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "translation": "印度政府“已失去理智”，被禁登英国航班的“蟑螂”领袖如是说",
+      "audio": "audio/news_20261125_03.mp3"
+    },
+    {
+      "text": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "translation": "华为被判窃取商业秘密罪名成立，但敲诈勒索罪名不成立",
+      "audio": "audio/news_20261125_04.mp3"
+    }
+  ]
+}
