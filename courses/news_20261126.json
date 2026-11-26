@@ -1,0 +1,34 @@
+{
+  "id": "news_20261126",
+  "title": "时事：11月26日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-26 双语时事新闻",
+  "sentences": [
+    {
+      "text": "US announces new tariffs on host of countries including China",
+      "translation": "美国宣布对包括中国在内的多个国家加征新关税",
+      "audio": "audio/news_20261126_00.mp3"
+    },
+    {
+      "text": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "translation": "用于测试地球防御能力的小行星照片显示其表面有体育场大小的陨石坑",
+      "audio": "audio/news_20261126_01.mp3"
+    },
+    {
+      "text": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "translation": "开罗高速公路油罐车相撞引发大火，造成31人死亡",
+      "audio": "audio/news_20261126_02.mp3"
+    },
+    {
+      "text": "Has global jihadism failed, or is it simply changing shape?",
+      "translation": "全球圣战主义是已经失败，还是仅仅在改变形态？",
+      "audio": "audio/news_20261126_03.mp3"
+    },
+    {
+      "text": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "translation": "以色列法官建议撤销对内塔尼亚胡最严重的指控",
+      "audio": "audio/news_20261126_04.mp3"
+    }
+  ]
+}
