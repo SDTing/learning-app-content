@@ -1,0 +1,34 @@
+{
+  "id": "news_20261127",
+  "title": "时事：11月27日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-27 双语时事新闻",
+  "sentences": [
+    {
+      "text": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "translation": "泽连斯基告诉BBC：美国过于关注中东，对俄施压不够",
+      "audio": "audio/news_20261127_00.mp3"
+    },
+    {
+      "text": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "translation": "感恩节大型风暴席卷美国，引发洪水和航班延误",
+      "audio": "audio/news_20261127_01.mp3"
+    },
+    {
+      "text": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "translation": "视频：美国遭遇恶劣天气，屋顶被掀翻，街道被淹",
+      "audio": "audio/news_20261127_02.mp3"
+    },
+    {
+      "text": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "translation": "新西兰执政联盟以微弱劣势未获议会多数席位",
+      "audio": "audio/news_20261127_03.mp3"
+    },
+    {
+      "text": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "translation": "BBC调查：德国船只经销商涉嫌向英吉利海峡偷渡团伙供货",
+      "audio": "audio/news_20261127_04.mp3"
+    }
+  ]
+}
