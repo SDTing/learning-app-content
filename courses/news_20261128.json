@@ -1,0 +1,34 @@
+{
+  "id": "news_20261128",
+  "title": "时事：11月28日",
+  "language": "en",
+  "level": "B1",
+  "description": "2026-11-28 双语时事新闻",
+  "sentences": [
+    {
+      "text": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "translation": "西班牙首相与对手在最后拉票活动中争取选民支持",
+      "audio": "audio/news_20261128_00.mp3"
+    },
+    {
+      "text": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "translation": "土耳其官员“摧毁”亲反对派电视频道，所有者向BBC透露",
+      "audio": "audio/news_20261128_01.mp3"
+    },
+    {
+      "text": "Eight killed in Peruvian military helicopter crash",
+      "translation": "秘鲁军用直升机坠毁致八人死亡",
+      "audio": "audio/news_20261128_02.mp3"
+    },
+    {
+      "text": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "translation": "“毒药卖家”肯尼斯·劳在法庭上向受害者家属道歉",
+      "audio": "audio/news_20261128_03.mp3"
+    },
+    {
+      "text": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "translation": "泽连斯基在BBC采访中批评特朗普与普京之间“奇怪的”友谊",
+      "audio": "audio/news_20261128_04.mp3"
+    }
+  ]
+}
